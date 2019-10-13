@@ -28,7 +28,7 @@
 
 ## 图片
 和超链接一样，只是在引用处前加！
-！[图片](pic-need.png)
+！[图片](https://github.com/dragons00/web/blob/master/Atom-Markdown/pic-need.png?raw=true)
 
 ### 图片转换
 
