@@ -29,8 +29,3 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 // 使用cnpm install expresstall express
 
-## 解决Atom下emmet tab无效的问题
-依次打开File→Keymap或File→Settings→Keybindings点击上方蓝色"your keymap file"，将以下代码复制到keymap.cson:  
-'atom-text-editor:not([mini])':
-    
-    'tab': 'emmet:expand-abbreviation-with-tab'
