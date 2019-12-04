@@ -1,3 +1,4 @@
+检查中文冲突。
 # 1.合并遇到换行符
 warning: LF will be replaced by CRLF in book.txt.  
 The file will have its original line endings in your working directory  
