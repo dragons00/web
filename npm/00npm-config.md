@@ -1,3 +1,15 @@
+## 0.npm介绍
+npm由三个不同的组件组成：
+* 注册表
+* 网站
+* 命令行界面（CLI）
+## npm使用
+要创建package.json包含您提供的值，请运行：
+> npm init
+
+
+
+
 ## npmrc
 The four relevant files are:
 * per-project configuration file (/path/to/my/project/.npmrc)
